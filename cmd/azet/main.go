@@ -1,9 +1,9 @@
 package main
 
 import (
-  "fmt"
+  "log/slog"
 )
 
 func main() {
-  fmt.Println("azet starting...")
+  slog.Info("This is an info message")
 }
