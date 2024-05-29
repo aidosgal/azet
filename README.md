@@ -10,12 +10,12 @@ This is a personal assistant program that I am developing for myself. It is a wo
 - github.com/asticode/go-astikit
 
 ## TODO
-- [ ] Add a description of the project
+- [x] Add a description of the project
 - [ ] Add a list of the project's dependencies
-- [ ] Make speech recognition work
+- [x] Make speech recognition work
 - [ ] Make the program work with the Google Calendar API
 - [ ] Make file and directory manipulation function
 - [ ] Make automatic git commit and push function
 - [ ] Make automatic email reding function
-- [ ] Add a GUI
-- [ ] Add a text to speech function
+- [x] Add a GUI
+- [x] Add a text to speech function
